@@ -14,7 +14,7 @@
   - 🥽 **XR Interaction** 
   - 👥 **Social VR**
   - 🖼️ **Virtual Experiences and Simulations**
-- 🌱 I am currently learning **PyTorch** 
+- 🌱 I am currently learning **HCI Interaction Design** 
   
 <!--
 **jackyangzzh/jackyangzzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
