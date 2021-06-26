@@ -12,7 +12,7 @@
 - 🏫 B.A. in **Computer Science** and **Communication Arts** from UW-Madison
 - ❤️ I am passionate about 
   - 🥽 **XR Interaction** 
-  - 👥 **Social VR**
+  - 👥 **Social Computing**
   - 🖼️ **Virtual Experiences and Simulations**
 - 🌱 I am currently learning **Human-Computer Interaction Design** 
   
