@@ -8,7 +8,7 @@
 </p>
 
 ### About me 🚀
-- 💼 I am a VR developer at [**Holos**](https://holos.io/)
+- 💼 I am an AR/VR Interaction Engineer at [**Holos**](https://holos.io/)
 - 🏫 B.A. in **Computer Science** and **Communication Arts** from UW-Madison
 - ❤️ I am passionate about 
   - 🥽 **XR Interaction** 
