@@ -8,7 +8,7 @@
 </p>
 
 ### About me 🚀
-- 💼 I am an AR/VR Interaction Engineer at [**Holos**](https://holos.io/)
+- 💼 I am an Mixed Reality Software Engineer at [**Microsoft**](https://www.microsoft.com/en-us/mesh)
 - 🏫 B.A. in **Computer Science** and **Communication Arts** from UW-Madison
 - ❤️ I am passionate about 
   - 🥽 **XR Interaction** 
