@@ -1,12 +1,12 @@
 # Hi there, I'm Jack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ##
 
 ### 🚀 About me 🚀
-- 💼 I am a **Mixed Reality Software Engineer** at [Microsoft](https://www.microsoft.com/en-us/mesh)
-- 🏫 B.A. in **Computer Science** and **Communication Arts** from [UW-Madison](https://www.wisc.edu/)
+- 💼 I am an **AR/VR Software Engineer** at [Microsoft](https://www.microsoft.com/en-us/mesh)
+- 🏫 I studied **Computer Science** and **Communication** at [UW-Madison](https://www.wisc.edu/)
 - ❤️ I am passionate about
-  - 🥽 **XR Interaction** 
-  - 👥 **Social Computing**
-  - 🖼️ **Virtual Experiences and Simulations**
+  - 🥽 **XR interaction** 
+  - 👥 **Virtual social experiences**
+  - 🌐 **Reimagine reality**
 - 💬 I'm always open to chatting ideas and collaboration! 
   
 
