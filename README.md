@@ -12,7 +12,7 @@
 
 ### 📬 Find me at 📬
 <p> 
-<a href="https://yangjack.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Website-purple?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>  
+<a href="https://jackyang.io/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Website-purple?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>  
 <a href="https://jackyangzzh.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/jackyangzzh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>  
 </p>
